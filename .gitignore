@@ -13,8 +13,6 @@ out/
 .turbo/
 
 # env
-.env
-.env.*
 !.env.example
 
 # logs
@@ -23,7 +21,6 @@ npm-debug.log*
 pnpm-debug.log*
 
 # editor / os
-.vscode/*
 !.vscode/extensions.json
 .idea/
 .DS_Store
@@ -31,3 +28,4 @@ Thumbs.db
 
 # testing / coverage
 coverage/
+config.bat
