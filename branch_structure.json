@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-71-add-scoped-read-only-vs-full-access-api-keys",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-71-add-scoped-read-only-vs-full-access-api-keys": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-71-add-scoped-read-only-vs-full-access-api-keys",
+    "origin"
+  ]
+}
